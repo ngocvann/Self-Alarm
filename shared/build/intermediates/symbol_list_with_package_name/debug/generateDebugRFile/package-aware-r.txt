@@ -1,0 +1,2 @@
+hcmute.edu.vn.selfalarm.shared
+xml automotive_app_desc

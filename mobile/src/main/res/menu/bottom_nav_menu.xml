@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_music" android:title="Music" android:icon="@drawable/ic_music" />
+    <item android:id="@+id/nav_sms" android:title="SMS - Call" android:icon="@drawable/ic_sms" />
+    <item android:id="@+id/nav_schedule" android:title="Schedule" android:icon="@drawable/ic_calendar" />
+    <item android:id="@+id/nav_battery" android:title="Battery" android:icon="@drawable/ic_battery" />
+</menu>
