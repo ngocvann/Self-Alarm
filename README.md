@@ -1,8 +1,8 @@
-# Nhóm thực hiện
+## Nhóm thực hiện
 - 22110239 Nguyễn Hữu Thông
 - 22110265 Nguyễn Ngô Ngọc Vân
 
-### Tính năng chính
+## Tính năng chính
 1. **Nghe nhạc**: Hỗ trợ phát nhạc khi báo thức kêu hoặc theo yêu cầu người dùng.
 2. **Quản lý SMS và cuộc gọi**: Theo dõi tin nhắn và cuộc gọi đến, hỗ trợ nhắc nhở khi có cuộc gọi hoặc tin nhắn quan trọng.
 3. **Lịch trình**: Tích hợp nhắc nhở công việc, sự kiện theo lịch trình cá nhân.
